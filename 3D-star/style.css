@@ -1,0 +1,42 @@
+.ok{
+    width: 850px;
+    height: 720px;
+    /* background-color: yellow; */
+    position: relative;
+    margin: auto;
+}
+.a1{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(85deg, rgb(206, 153, 55), rgb(165, 108, 2));
+    clip-path: polygon(10% 85%, 20% 55%, 2% 35%, 27% 31%, 37% 1%, 52% 28%, 80% 33%, 63% 52%, 65% 85%, 37% 70%);
+}
+.a2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(163, 108, 5);
+    clip-path: polygon(10% 84.8%, 37% 70%, 45% 74%, 19% 89%);
+}
+.a3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(153, 101, 5);
+    clip-path: polygon(37% 1%, 45% 3.6%, 59% 29.4%, 51.9% 28%);
+}
+.a4{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(167, 110, 3);
+    clip-path: polygon(80% 32.97%, 89% 37%, 72% 56%, 62.9% 52%);
+}
+.a5{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(147, 97, 4);
+    clip-path: polygon(62.9% 51.9%, 72% 55.9%, 74% 89%, 64.9% 85%);
+}
